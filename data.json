@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "isauth": false,
+      "id": "38e5c2e0-9962-433b-b9af-66c5d00d8ef7",
+      "name": "judith"
+    },
+    {
+      "isauth": false,
+      "id": "da62ff55-c8e7-4f87-aea3-e26bed23904e",
+      "name": "michel"
+    }
+  ],
+  "todos": [
+    {
+      "name": "management",
+      "completed": true,
+      "id": "9ff3180e-a6cf-46fd-9d76-5d5e4317217b"
+    },
+    {
+      "name": "espagnol",
+      "completed": false,
+      "id": "5e3f218c-75c9-4fa0-97cf-2bca740fda61"
+    },
+    {
+      "name": "anglais",
+      "completed": true,
+      "id": "cc0da0dd-4978-4359-aa7e-515a252ce104"
+    },
+    {
+      "name": "gestion",
+      "completed": false,
+      "id": "4c2e2038-f664-48b0-97c8-54d85a3b2328"
+    },
+    {
+      "name": "learn cypress",
+      "completed": true,
+      "id": "9d7adca6-d3f3-4b66-8193-52cfa971061c"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+.wrapper {
+    height: 100vh;
+    width: 100vw;
+    background-color: #123;
+}
+
+.wrapper .form {
+    min-width: 50%;
+    max-width: 100%;
+}
+
+.wrapper input[type="text"] {
+    box-shadow: none;
+    border: 0;
+    transition: all .25s;
+}
+
+.wrapper input[type="text"]:focus {
+    background-color: #181818;
+    color: whitesmoke;
+}
+
+.wrapper input[type="text"]:focus::placeholder {
+    text-align: center;
+    transition: text-align .5s;
+}
+
+.wrapper input[type="text"]::placeholder {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.wrapper small {
+    font-size: large;
+}
